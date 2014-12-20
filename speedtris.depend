@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1418296752 source:d:\codeblocks\share\codeblocks\test\tetris\bitmapobject.cpp
+	"bitmapobject.h"
+
+1418296407 d:\codeblocks\share\codeblocks\test\tetris\bitmapobject.h
+	<windows.h>
+
+1419057331 source:d:\codeblocks\share\codeblocks\test\tetris\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	"bitmapobject.h"
+
