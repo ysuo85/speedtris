@@ -1,5 +1,5 @@
 speedtris
 =========
 
-A Tetris variant which enables multiple players to compete and the blocks will fall at the speed of the fastest player.
-Currently under development using C++.
+A little Tetris project for me to practice game programming in C++.
+Currently under development using C++ and Windows GDI Library.
